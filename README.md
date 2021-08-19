@@ -2,4 +2,5 @@
 
 ## Como funciona ?
 
-    * Ele vai perguntar o Local da pasta e o nome do Arquivo, com isso ele ira retornar todos os arquivos que foram achados com aquele nome e seus respectivos tamanhos.
+    - Ele ira te perguntar o local da pasta e o nome do Arquivo.
+    - com isso ele ira retornar todos os arquivos que foram achados com aquele nome e seus respectivos tamanhos.
